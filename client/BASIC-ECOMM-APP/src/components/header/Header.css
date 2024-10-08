@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: var(--light-blue);
+    text-align: center;
+}
+
+.header h1{
+    color: var(--medium-yellow);
+    margin: 0%;
+}
